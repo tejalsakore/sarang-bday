@@ -1281,7 +1281,7 @@ audio {
 	font-weight: bold;
 }
 
-.btn-primary {
+.btn-success {
         border-color: #466baf;
         padding: 10px;
         text-transform: uppercase;
@@ -1290,11 +1290,11 @@ audio {
         color: #fff;
         background-color: #466baf;
 }
-    .btn-primary:hover,
-    .btn-primary:focus,
-    .btn-primary:active,
-    .btn-primary.active,
-    .open .dropdown-toggle.btn-primary {
+    .btn-success:hover,
+    .btn-success:focus,
+    .btn-success:active,
+    .btn-success.active,
+    .open .dropdown-toggle.btn-success {
         border-color: #fff;
         color: #fff;
         background-color: #466baf;
